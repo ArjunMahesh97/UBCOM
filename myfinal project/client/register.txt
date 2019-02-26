@@ -1,0 +1,5 @@
+rakesh:rakesh:rakesh:abc@gmail.com:1234567890
+kumar:kumar:kumar:kumar@gmail.com:1234567890
+vinay:vinay:viniy:vini@gmail.com:8976543219
+varun:varun:varun:varun@gmail.com:9164997783
+arun:arun:arun:arun2gmail.com:1234567895
