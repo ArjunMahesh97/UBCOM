@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+vinay: current bull market is bad
+=======
+vinay: current bull market is bad
+>>>>>>> 477478b9de18104ca2aeaabef6bf619002195381
+vinay: the stock market trends have been good for me this week

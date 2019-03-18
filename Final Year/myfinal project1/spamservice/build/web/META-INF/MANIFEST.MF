@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Manifest-Version: 1.0
+
+=======
+Manifest-Version: 1.0
+
+>>>>>>> 477478b9de18104ca2aeaabef6bf619002195381

@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+rakesh:rakesh:rakesh:abc@gmail.com:1234567890
+kumar:kumar:kumar:kumar@gmail.com:1234567890
+vinay:vinay:viniy:vini@gmail.com:8976543219
+varun:varun:varun:varun@gmail.com:9164997783
+=======
+rakesh:rakesh:rakesh:abc@gmail.com:1234567890
+kumar:kumar:kumar:kumar@gmail.com:1234567890
+vinay:vinay:viniy:vini@gmail.com:8976543219
+varun:varun:varun:varun@gmail.com:9164997783
+>>>>>>> 477478b9de18104ca2aeaabef6bf619002195381
+arun:arun:arun:arun2gmail.com:1234567895

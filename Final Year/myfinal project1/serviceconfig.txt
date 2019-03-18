@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+spcloud
+org.sp1
+=======
+spcloud
+org.sp1
+>>>>>>> 477478b9de18104ca2aeaabef6bf619002195381
+http://localhost:8080/spamservice/spcloud?WSDL
