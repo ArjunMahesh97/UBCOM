@@ -1,0 +1,3 @@
+spcloud
+org.sp1
+http://localhost:8080/spamservice/spcloud?WSDL

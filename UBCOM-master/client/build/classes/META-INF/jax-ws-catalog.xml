@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/spamservice/spcloud?WSDL" uri="wsdl/localhost_8080/spamservice/spcloud.wsdl"/>
+    <system systemId="http://localhost:8080/spamservice/spcloud?xsd=1" uri="wsdl/localhost_8080/spamservice/spcloud.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/samsung/samsung?WSDL" uri="wsdl/localhost_8080/samsung/samsung.wsdl"/>
+    <system systemId="http://localhost:8080/samsung/samsung?xsd=1" uri="wsdl/localhost_8080/samsung/samsung.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/nike/nike?WSDL" uri="wsdl/localhost_8080/nike/nike.wsdl"/>
+    <system systemId="http://localhost:8080/nike/nike?xsd=1" uri="wsdl/localhost_8080/nike/nike.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/nandini/nandini?WSDL" uri="wsdl/localhost_8080/nandini/nandini.wsdl"/>
+    <system systemId="http://localhost:8080/nandini/nandini?xsd=1" uri="wsdl/localhost_8080/nandini/nandini.xsd_1.xsd"/>
+</catalog>
